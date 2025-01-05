@@ -26,6 +26,13 @@ If you, or someone you know, has the tools and knowhow to put 116mm holes into w
 | [M4 flat head end caps](https://www.aliexpress.com/w/wholesale-m4-end-flat-cap.html?spm=a2g0o.productlist.search.0)                       | Used to hold the rubber feet in place                                                                    | 4              |                         $4.80   | <img width="388" alt="Screenshot 2025-01-05 at 3 16 45 PM" src="https://github.com/user-attachments/assets/a8d9f269-dda2-4f73-82d7-27cf073cc28d" /> |
 | 20mm Black Elastic Band                       |  To hold a power bank in place at the bottom               | 1              |                     $5.00  | <img width="347" alt="Screenshot 2025-01-05 at 3 32 27 PM" src="https://github.com/user-attachments/assets/87fe9483-5714-4bf8-8168-2cd58d32b6d2" /> |
 
+## Optional
+
+| **Component**                 | **Description**                                                                                                                                                            | **# required** | **Approximate Cost (NZD)** |  |
+|-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------:|----------------------------:|------|
+| [90mm Handle](https://www.aliexpress.com/w/wholesale-90mm-handle.html?spm=a2g0o.detail.search.0) | Makes it easy to carry                     | 1              | $8.00                        | |
+| [12V DC Wall Adapater](https://www.auselectronicsdirect.com.au/power/power-adapter/12v-dc-power-adapter/) (At least 1 Amp) | If you only ever want to plug it in and don't want to use a USB battery pack, you can use this to plug it into the wall. If you want to do both, you could get a USB wall plug. Make sure it's rated for at least 1 Amp                     | 1              | $12.00                        | ![PS2033](https://github.com/user-attachments/assets/84d819c7-0c4b-49fa-8a24-64f9e74755ec) |
+
 ## Laser Cutting
 
 The trickiest thing to prepare is getting your wood laser cut. See [main page](../)) for suggestions for places that can do the cutting in Aotearoa and Australia.
@@ -49,8 +56,7 @@ Once you've found a maker space or similar that can do laser cutting for you, yo
 
 ![IMG_20240815_213708538_AE](https://github.com/user-attachments/assets/83420347-20f3-44d6-91d0-88c41e5e8d74)
 
-
-6. Screw the handle into the top panel.
+6. Screw the handle into the top panel. Make sure it's screwed in firmly.
 7. Place the top panel over the fans
 
 ![IMG_20240815_214704081_AE](https://github.com/user-attachments/assets/859d9239-0ba8-49e3-babe-2a2321640485)
