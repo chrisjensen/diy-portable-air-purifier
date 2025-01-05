@@ -30,7 +30,7 @@ If you, or someone you know, has the tools and knowhow to put 116mm holes into w
 
 | **Component**                 | **Description**                                                                                                                                                            | **# required** | **Approximate Cost (NZD)** |  |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------:|----------------------------:|------|
-| [90mm Handle](https://www.aliexpress.com/w/wholesale-90mm-handle.html?spm=a2g0o.detail.search.0) | Makes it easy to carry                     | 1              | $8.00                        | |
+| [90mm Handle](https://www.aliexpress.com/w/wholesale-90mm-handle.html?spm=a2g0o.detail.search.0) | Makes it easy to carry                     | 1              | $8.00                        | <img width="372" alt="Screenshot 2025-01-06 at 8 23 47 AM" src="https://github.com/user-attachments/assets/4e2415c4-9b58-4a55-8896-e5f1c1b9d179" /> |
 | [12V DC Wall Adapater](https://www.auselectronicsdirect.com.au/power/power-adapter/12v-dc-power-adapter/) (At least 1 Amp) | If you only ever want to plug it in and don't want to use a USB battery pack, you can use this to plug it into the wall. If you want to do both, you could get a USB wall plug. Make sure it's rated for at least 1 Amp                     | 1              | $12.00                        | ![PS2033](https://github.com/user-attachments/assets/84d819c7-0c4b-49fa-8a24-64f9e74755ec) |
 
 ## Laser Cutting
