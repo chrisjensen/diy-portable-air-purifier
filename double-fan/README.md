@@ -61,7 +61,9 @@ Once you've found a maker space or similar that can do laser cutting for you, yo
 
 ![IMG_20240815_214704081_AE](https://github.com/user-attachments/assets/859d9239-0ba8-49e3-babe-2a2321640485)
 
-8. Place the air straighteners on the top panel over the fans.
+8. Place the air straighteners on the top panel over the fans, and screw hex caps on the end of the bolts to hold it together.
+
+![20250106_081259](https://github.com/user-attachments/assets/0b54d931-c995-4dd0-9037-1538be4fca83)
 
 9. Take the threaded rods and screw a hex nut on one end, followed by the flat head end caps.
 
@@ -84,5 +86,7 @@ Once you've found a maker space or similar that can do laser cutting for you, yo
 15. Place the assembled top section with the fans on top of the filters.
 
 16. Screw the top section in place with the hex nuts and then with the hex caps.
+
+![20250106_092924](https://github.com/user-attachments/assets/f7e4dfa0-4086-489a-a201-b2a30fc58f50)
 
 17. Turn it on!
