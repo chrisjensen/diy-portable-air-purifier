@@ -35,9 +35,15 @@ I've provided links to an AliExpress where you can find many of these components
 | [90mm Handle](https://www.aliexpress.com/w/wholesale-90mm-handle.html?spm=a2g0o.detail.search.0) | Makes it easy to carry                     | 1              | $8.00                        | <img width="372" alt="Screenshot 2025-01-06 at 8 23 47 AM" src="https://github.com/user-attachments/assets/4e2415c4-9b58-4a55-8896-e5f1c1b9d179" /> |
 | [12V DC Wall Adapater](https://www.auselectronicsdirect.com.au/power/power-adapter/12v-dc-power-adapter/) (At least 1 Amp) | If you only ever want to plug it in and don't want to use a USB battery pack, you can use this to plug it into the wall. If you want to do both, you could get a USB wall plug. Make sure it's rated for at least 1 Amp                     | 1              | $12.00                        | ![PS2033](https://github.com/user-attachments/assets/84d819c7-0c4b-49fa-8a24-64f9e74755ec) |
 
-## Laser Cutting & 3D Printing
+## Cutting & 3D Printing
 
-The trickiest thing to prepare is getting your wood laser cut and air straightener 3D printed. See [main page](../)) for suggestions for places that can do the cutting in Aotearoa and Australia.
+I've used Bamboo, Ply and MDF, you could also try Acrylic.
+
+MDF is usually the cheapest and will do just fine.
+
+The cuts and the instructions are designed for 6mm thick materials. (I tried one with 3mm, but it bowed and didn't hold the filters in place well and I needed to add two more threaded rods in the middle to hold it together)
+
+The materials will need to be laser cut or CNC cut, which you can get done at a Maker Space near you. Many will do the cutting and post the materials to you. See [main page](../)) for suggestions for places that can do the cutting in Aotearoa and Australia.
 
 Once you've found a maker space or similar that can do laser cutting for you, you'll want to download the design files for the top, middle and bottom sections. 
 
