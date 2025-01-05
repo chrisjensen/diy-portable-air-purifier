@@ -35,9 +35,20 @@ If you, or someone you know, has the tools and knowhow to put 116mm holes into w
 
 ## Laser Cutting & 3D Printing
 
-The trickiest thing to prepare is getting your wood laser cut. See [main page](../)) for suggestions for places that can do the cutting in Aotearoa and Australia.
+The trickiest thing to prepare is getting your wood laser cut and air straightener 3D printed. See [main page](../)) for suggestions for places that can do the cutting in Aotearoa and Australia.
 
 Once you've found a maker space or similar that can do laser cutting for you, you'll want to download the design files for the top, middle and bottom sections. 
+
+If you provide them the files as is and the following instructions, they should know what to do with it:
+
+Download the following 4 files for the laser cutting and 3D printing
+
+| **Design Files**                 |
+|-------------------------------|
+| [Top](https://raw.githubusercontent.com/chrisjensen/diy-portable-air-purifier/refs/heads/main/double-fan/double%20portable%20top.svg) |
+| [Middle](https://raw.githubusercontent.com/chrisjensen/diy-portable-air-purifier/refs/heads/main/double-fan/double%20portable%20middle.svg) |
+| [Bottom](https://raw.githubusercontent.com/chrisjensen/diy-portable-air-purifier/refs/heads/main/double-fan/double%20portable%20bottom.svg) |
+| [Air Striaghtener 3D Print Design](https://github.com/chrisjensen/air-straightener/blob/main/%207mm%20x%20120mm%20air%20straightener.stl) |
 
 If you're not sure what to provide to them, provide the designs with text to describe the engraving and they should be able to take it from there:
 
