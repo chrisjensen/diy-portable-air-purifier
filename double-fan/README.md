@@ -140,4 +140,4 @@ If you'd like to edit the designs, you can use [this source design file](../sour
 
 ![20250106_092924](https://github.com/user-attachments/assets/f7e4dfa0-4086-489a-a201-b2a30fc58f50)
 
-17. Turn it on!
+17. Plug it in and blow some mist over it to watch the wall of air in action!
