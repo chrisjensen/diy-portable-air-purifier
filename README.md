@@ -3,7 +3,9 @@
 Laser cutting designs and instructions for DIY portable air purifiers with 1 or 2 fans.
 
 **Approximate Cost (NZD)**: $210 (Single Fan), $330 (Double Fan)
+
 **Skill Level**: Beginner
+
 **Time to Build**: 15 minutes
 
 The first time you build it will no doubt be slower as you get familiar with the pieces.
