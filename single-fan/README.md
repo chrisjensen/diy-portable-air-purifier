@@ -96,6 +96,9 @@ If you'd like to edit the designs, you can use [this source design file](../sour
 3. Place the air straightener on top of the fan and screw on the hex caps to secure it all together
 4. Connect the fan power wire to the DC 5.5 12V to PWM fan cable. (The fan also have cables for the lights, these will be loose and not connected to anything)
 5. Plug in the USB-C 12V adaptor to the DC socket and connect it to a battery to check that the fan turns and the air blows the correct direction. Air should flow into the wooden hole, through the fan, and out the straightener.
+   
+![20250106_115827](https://github.com/user-attachments/assets/be914c7c-777d-492a-9009-33efda3604b4)
+
 6. Take the threaded rods and screw a hex nut on one end, followed by the flat head end caps.
 
 ![20250106_075435](https://github.com/user-attachments/assets/c8911457-5fe8-42ac-9afe-8eb0d44794e7)
@@ -118,4 +121,6 @@ If you'd like to edit the designs, you can use [this source design file](../sour
 
     There may be a gap between the nuts and caps, that's fine as long as the filters are held firmly in place. If it bothers you asthetically, you could add another hex nut in between.
 
-13. Plug it in and blow some mist over it to watch the wall of air in action!
+![20250106_115531](https://github.com/user-attachments/assets/c56c5bfe-09d5-4ad1-b879-76340e7766d8)
+
+14. Plug it in and blow some mist over it to watch the wall of air in action!
