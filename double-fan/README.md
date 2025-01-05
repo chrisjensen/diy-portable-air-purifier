@@ -33,11 +33,15 @@ If you, or someone you know, has the tools and knowhow to put 116mm holes into w
 | [90mm Handle](https://www.aliexpress.com/w/wholesale-90mm-handle.html?spm=a2g0o.detail.search.0) | Makes it easy to carry                     | 1              | $8.00                        | <img width="372" alt="Screenshot 2025-01-06 at 8 23 47 AM" src="https://github.com/user-attachments/assets/4e2415c4-9b58-4a55-8896-e5f1c1b9d179" /> |
 | [12V DC Wall Adapater](https://www.auselectronicsdirect.com.au/power/power-adapter/12v-dc-power-adapter/) (At least 1 Amp) | If you only ever want to plug it in and don't want to use a USB battery pack, you can use this to plug it into the wall. If you want to do both, you could get a USB wall plug. Make sure it's rated for at least 1 Amp                     | 1              | $12.00                        | ![PS2033](https://github.com/user-attachments/assets/84d819c7-0c4b-49fa-8a24-64f9e74755ec) |
 
-## Laser Cutting
+## Laser Cutting & 3D Printing
 
 The trickiest thing to prepare is getting your wood laser cut. See [main page](../)) for suggestions for places that can do the cutting in Aotearoa and Australia.
 
-Once you've found a maker space or similar that can do laser cutting for you, you'll want to download the design files for the top, middle and bottom sections.
+Once you've found a maker space or similar that can do laser cutting for you, you'll want to download the design files for the top, middle and bottom sections. 
+
+If you're not sure what to provide to them, provide the designs with text to describe the engraving and they should be able to take it from there:
+
+If you'd like to edit the designs, you can use [this source design file](../source%20design%20files/double%20portable%20-%20all%20layers.svg) which contains the design for all 3 pieces of wood in separate layers.
 
 ## Steps
 
