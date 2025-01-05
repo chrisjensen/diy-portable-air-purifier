@@ -1,5 +1,9 @@
 # Double Fan Portable Air Purifier
 
+## Performance
+
+A set up like this should provide around 92 feet³/minute (cfm) or 156 meters³/hour (cmh).
+
 ## Cost
 
 Some of the main components (the fans, the filters) are not commonly sold in Aotearoa, and so are costly to obtain and import. You may be able to build this cheaper in Australia or the US.
@@ -37,28 +41,50 @@ I've provided links to an AliExpress where you can find many of these components
 
 ## Cutting & 3D Printing
 
+The materials will need to be laser cut or CNC cut, which you can get done at a Maker Space near you. Many will do the cutting and post the materials to you. See [main page](../)) for suggestions for places that can do the cutting in Aotearoa and Australia.
+
 I've used Bamboo, Ply and MDF, you could also try Acrylic.
 
-MDF is usually the cheapest and will do just fine.
+6mm (¼ inch) MDF is usually the cheapest and will do just fine.
 
-The cuts and the instructions are designed for 6mm thick materials. (I tried one with 3mm, but it bowed and didn't hold the filters in place well and I needed to add two more threaded rods in the middle to hold it together)
-
-The materials will need to be laser cut or CNC cut, which you can get done at a Maker Space near you. Many will do the cutting and post the materials to you. See [main page](../)) for suggestions for places that can do the cutting in Aotearoa and Australia.
+The cuts and the instructions are designed for 6mm thick materials. I tried one with 3mm, but it bowed and didn't hold the filters in place well and I needed to add two more threaded rods in the middle to hold it together. But if your local Maker Space only has, say, 5mm that would be fine. If it's thicker than 6mm you may need longer bolts.
 
 Once you've found a maker space or similar that can do laser cutting for you, you'll want to download the design files for the top, middle and bottom sections. 
 
-If you provide them the files as is and the following instructions, they should know what to do with it:
+Every Maker Space is a bit different in their file requirements and in an ideal world you'd adjust your files to fit them exactly, but most maker spaces are pretty friendly to new comers, so if you send them the 4 files (3 for the wood, 1 for the air straightener) and a polite message, they should be able to help you.
 
-Download the following 4 files for the laser cutting and 3D printing
+You can download the 4 files by clicking on each of the following links and then clicking the download button.
 
 | **Design Files**                 |
 |-------------------------------|
-| [Top](https://raw.githubusercontent.com/chrisjensen/diy-portable-air-purifier/refs/heads/main/double-fan/double%20portable%20top.svg) |
-| [Middle](https://raw.githubusercontent.com/chrisjensen/diy-portable-air-purifier/refs/heads/main/double-fan/double%20portable%20middle.svg) |
-| [Bottom](https://raw.githubusercontent.com/chrisjensen/diy-portable-air-purifier/refs/heads/main/double-fan/double%20portable%20bottom.svg) |
-| [Air Striaghtener 3D Print Design](https://github.com/chrisjensen/air-straightener/blob/main/%207mm%20x%20120mm%20air%20straightener.stl) |
+| [Top](./6mmMDF_double_portable_top.svg) |
+| [Middle](./6mmMDF_double_portable_middle.svg) |
+| [Bottom](./6mmMDF_double_portable_bottom.svg) |
+| [Air Striaghtener 3D Print Design](https://github.com/chrisjensen/air-straightener/blob/main/7mm_x_120mm_air_straightener.stl) |
 
-If you're not sure what to provide to them, provide the designs with text to describe the engraving and they should be able to take it from there:
+Here's a message you could send them.
+
+```
+Hi,
+I've never had anything laser cut or 3D printed before, would you be able to help me out with getting some files cut and printed for a home project?
+
+I have 3 files to laser cut from 6mm materials. I believe MDF would be cheapest?
+- 6mmMDF_double_portable_top.svg
+- 6mmMDF_double_portable_middle.svg
+- 6mmMDF_double_portable_bottom.svg
+
+The SVG files contain the required cuts in blue, and a 1mm raster in red.
+
+I also have one file I'd like to 3D Print in Black at low layer resolution.
+- 7mm_x_120mm_air_straightener.stl
+
+What would be the cost to do this and post them to me at my address below?
+
+<add your address>
+
+Sincerely,
+
+```
 
 If you'd like to edit the designs, you can use [this source design file](../source%20design%20files/double%20portable%20-%20all%20layers.svg) which contains the design for all 3 pieces of wood in separate layers.
 
