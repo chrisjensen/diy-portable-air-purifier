@@ -104,6 +104,8 @@ If you'd like to edit the designs, you can use [this source design file](../sour
 
 16. Screw the top section in place with the hex nuts and then with the hex caps. Make sure you hold the rod in place while you tighten the nuts and caps, otherwise it may turn and loosen the caps holding the rubber feet in place.
 
+    There may be a gap between the nuts and caps, that's fine as long as the filters are held firmly in place. If it bothers you asthetically, you could add another hex nut in between.
+
 ![20250106_092924](https://github.com/user-attachments/assets/f7e4dfa0-4086-489a-a201-b2a30fc58f50)
 
 17. Turn it on!
