@@ -1,5 +1,13 @@
 # Double Fan Portable Air Purifier
 
+## Cost
+
+Some of the main components (the fans, the filters) are not commonly sold in Aotearoa, and so are costly to obtain and import. You may be able to build this cheaper in Australia or the US.
+
+The cost of the below components comes to around NZD $330.
+
+If you, or someone you know, has the tools and knowhow to put 116mm holes into wood, you could save another $70 by sourcing and cutting the wood yourself.
+
 ## Components
 
 | **Component**                 | **Description**                                                                                                                                                            | **# required** | **Approximate Cost (NZD)** |  |
@@ -7,7 +15,7 @@
 | [Cooler Master Mobius ARGB Fan](https://www.google.com/search?q=cooler+master+mobius+argb+fan) | These are very strong, very quiet fans that will pull air through the filter. NOTE: The Cooler Master Mobius Black fans do NOT have the same strength.                     | 2              | $70.00                        | ![20220917_174825-scaled](https://github.com/user-attachments/assets/fb5b2c64-d348-430b-9448-9b495c571dc6) |
 | [7mm Air Straightener](https://github.com/chrisjensen/air-straightener/tree/main)          | An air straightener (or louvre) removes turbulence fro the air coming out of the fan, which means it will blow faster and further, helping to create a wall of air effect. You can get these 3D printed from the design linked | 2              | $52.00                        |
 | [Levoit 200S Filters](https://www.amazon.com/gp/product/B09ZQNKK78/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)           | The cylindrical filters used for this design                                                                                                                               | 2              | $85.00                        | ![71cxu4OobtL _AC_SX679,0,0_SH20_](https://github.com/user-attachments/assets/abc2f6d1-c0a8-4a65-bf97-5deb10f3eded) |
-| Wooden Top, Middle and Bottom | Laser cut 3 pieces of 6mm MDF or similar to hold the filters and fans in place                                                                                             | 1 (of each)    | $70.00                        | ![IMG_20240815_201817513_AE](https://github.com/user-attachments/assets/900bffa1-5945-4c0f-89a3-a1037e361f1d) |
+| Wooden Top, Middle and Bottom | Laser cut 3 pieces of 6mm MDF or similar to hold the filters and fans in place                                                                                             | 1    | $70.00                        | ![IMG_20240815_201817513_AE](https://github.com/user-attachments/assets/900bffa1-5945-4c0f-89a3-a1037e361f1d) |
 | [DC 5.5 12V to dual PWM fan cable](https://www.aliexpress.com/w/wholesale-dc-5.5-12v-to-pwm-fan-cable.html?spm=a2g0o.detail.search.0)     | Connects the fans to the power supply                                                                                                                | 1              |                      $4.20      |  <img width="381" alt="Screenshot 2025-01-05 at 2 24 26 PM" src="https://github.com/user-attachments/assets/c27386e6-b5de-4895-bf64-7053ddc6d6cd" /> |
 | [12V USB-A to DC 5.5mm adapter](https://www.aliexpress.com/w/wholesale-12V-USB%2525252dA-to-DC-5.5mm-cable.html?spm=a2g0o.productlist.search.0)        | Provides power from USB to the two fans. Note that it should say 12V somewhere on the USB plug (see note below on USB-C)                                                                                                                | 1              |                     $2.60    | <img width="393" alt="Screenshot 2025-01-05 at 2 28 15 PM" src="https://github.com/user-attachments/assets/5f1913e5-997d-4601-a82e-18d7a1509ccc" /> |
 | 160mm M4 threaded rods              | Used to hold the pieces of wood in place around the filters                                                                                                                | 4              |                        $14.00   | ![shopping copy](https://github.com/user-attachments/assets/99ae06bd-4332-411b-a3fd-a6ebe4ac915d) |
@@ -17,3 +25,12 @@
 | [M4 nuts](https://www.aliexpress.com/w/wholesale-m4-nuts.html?spm=a2g0o.productlist.search.0)                       | Useful for adjusting for exact length of threaded rod which may not fit exactly                                                                                                      | 8              |                          $2.80  | <img width="363" alt="Screenshot 2025-01-05 at 3 18 11 PM" src="https://github.com/user-attachments/assets/39cdcf27-63e8-4f1b-b042-207bfcff968b" /> |
 | [M4 flat head end caps](https://www.aliexpress.com/w/wholesale-m4-end-flat-cap.html?spm=a2g0o.productlist.search.0)                       | Used to hold the rubber feet in place                                                                    | 4              |                         $4.80   | <img width="388" alt="Screenshot 2025-01-05 at 3 16 45 PM" src="https://github.com/user-attachments/assets/a8d9f269-dda2-4f73-82d7-27cf073cc28d" /> |
 | 20mm Black Elastic Band                       |  To hold a power bank in place at the bottom               | 1              |                     $5.00  | <img width="347" alt="Screenshot 2025-01-05 at 3 32 27 PM" src="https://github.com/user-attachments/assets/87fe9483-5714-4bf8-8168-2cd58d32b6d2" /> |
+
+## Laser Cutting
+
+The trickiest thing to prepare is getting your wood laser cut. Once you've found a maker space or similar that can do laser cutting for you (see [main page](../)) for suggestions in Aotearoa and Australia)
+
+
+## Steps
+
+1. Tie the elastic around the  bottom panel
