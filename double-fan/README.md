@@ -33,4 +33,6 @@ The trickiest thing to prepare is getting your wood laser cut. Once you've found
 
 ## Steps
 
-1. Tie the elastic around the  bottom panel
+1. Tie the elastic around the bottom panel. You'll want it quite tight so that it holds a heavy battery pack in place.
+
+2.  
