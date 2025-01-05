@@ -48,7 +48,7 @@ I prefer this option as it's simple, the hardware is designed to do this all the
 
 You've probably seen this if you've got a new phone. It uses the new Power Delivery protocol to get more power from the USB battery and charge quickly. In theory you can buy a USB-C Power Delivery adapter from AliExpress.
 
-The nice thing about these is that they're more compact as it just askes the battery or wall plug itself to deliver the 12V, so it doesn't need any bulky hardware for converting the power from 5V to 12V. Unfortunately, in my experience, these adapters can be bad at negotiating the Power Delivery protocol, and the power supply ends up only providing 5V and the fan doesn't run at full speed.
+The nice thing about these is that they're more compact as it just asks the battery or wall plug itself to deliver the 12V, so it doesn't need any bulky hardware for converting the power from 5V to 12V. Unfortunately, in my experience, these adapters can be bad at negotiating the Power Delivery protocol, and the power supply ends up only providing 5V and the fan doesn't run at full speed.
 
 <img width="339" alt="Screenshot 2025-01-06 at 12 37 25 PM" src="https://github.com/user-attachments/assets/1f4aa6a9-f3b6-4c65-af7a-77629b10cdf4" />
 
