@@ -6,14 +6,14 @@ Some of the main components (the fans, the filters) are not commonly sold in Aot
 
 The cost of the below components comes to around NZD $330.
 
-If you, or someone you know, has the tools and knowhow to put 116mm holes into wood, you could save another $70 by sourcing and cutting the wood yourself.
+If you, or someone you know, has the tools and knowhow to put 116mm holes into wood, you could save another $70 by sourcing and cutting the wood yourself and keeping the wood sections to two simple pieces of wood to sandwich the filters.
 
 ## Components
 
 | **Component**                 | **Description**                                                                                                                                                            | **# required** | **Approximate Cost (NZD)** |  |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------:|----------------------------:|------|
 | [Cooler Master Mobius ARGB Fan](https://www.google.com/search?q=cooler+master+mobius+argb+fan) | These are very strong, very quiet fans that will pull air through the filter. NOTE: The Cooler Master Mobius Black fans do NOT have the same strength.                     | 2              | $70.00                        | ![20220917_174825-scaled](https://github.com/user-attachments/assets/fb5b2c64-d348-430b-9448-9b495c571dc6) |
-| [7mm Air Straightener](https://github.com/chrisjensen/air-straightener/tree/main)          | An air straightener (or louvre) removes turbulence fro the air coming out of the fan, which means it will blow faster and further, helping to create a wall of air effect. You can get these 3D printed from the design linked | 2              | $52.00                        |
+| [7mm Air Straightener](https://github.com/chrisjensen/air-straightener/tree/main)          | An air straightener (or louvre) removes turbulence fro the air coming out of the fan, which means it will blow faster and further, helping to create a wall of air effect. You can get these 3D printed from the design linked. You can print these at the lowest resolution offered by a 3D printer | 2              | $52.00                        | ![20250106_073747](https://github.com/user-attachments/assets/3133daad-5009-4c4e-a0b5-2aa7e4b79cdf) |
 | [Levoit 200S Filters](https://www.amazon.com/gp/product/B09ZQNKK78/ref=ppx_od_dt_b_asin_title_s00?ie=UTF8&psc=1)           | The cylindrical filters used for this design                                                                                                                               | 2              | $85.00                        | ![71cxu4OobtL _AC_SX679,0,0_SH20_](https://github.com/user-attachments/assets/abc2f6d1-c0a8-4a65-bf97-5deb10f3eded) |
 | Wooden Top, Middle and Bottom | Laser cut 3 pieces of 6mm MDF or similar to hold the filters and fans in place                                                                                             | 1    | $70.00                        | ![IMG_20240815_201817513_AE](https://github.com/user-attachments/assets/900bffa1-5945-4c0f-89a3-a1037e361f1d) |
 | [DC 5.5 12V to dual PWM fan cable](https://www.aliexpress.com/w/wholesale-dc-5.5-12v-to-pwm-fan-cable.html?spm=a2g0o.detail.search.0)     | Connects the fans to the power supply                                                                                                                | 1              |                      $4.20      |  <img width="381" alt="Screenshot 2025-01-05 at 2 24 26 PM" src="https://github.com/user-attachments/assets/c27386e6-b5de-4895-bf64-7053ddc6d6cd" /> |
@@ -28,11 +28,55 @@ If you, or someone you know, has the tools and knowhow to put 116mm holes into w
 
 ## Laser Cutting
 
-The trickiest thing to prepare is getting your wood laser cut. Once you've found a maker space or similar that can do laser cutting for you (see [main page](../)) for suggestions in Aotearoa and Australia)
+The trickiest thing to prepare is getting your wood laser cut. See [main page](../)) for suggestions for places that can do the cutting in Aotearoa and Australia.
 
+Once you've found a maker space or similar that can do laser cutting for you, you'll want to download the design files for the top, middle and bottom sections.
 
 ## Steps
 
-1. Tie the elastic around the bottom panel. You'll want it quite tight so that it holds a heavy battery pack in place.
+1. Place the M4 bolts through the middle section of wood so that the head of the screw is recessed a little in the engraving.
 
-2.  
+![IMG_20240815_213516197_AE](https://github.com/user-attachments/assets/04e35988-2f73-494c-87a5-1b6fe0a61421)
+
+2. Place the Mobius Fans on top with the wires facing into the middle section.
+3. Connect the fan power wires to the DC 5.5 12V to dual PWM fan cable. (The fans also have cables for the lights, these will be loose and not connected to anything)
+
+![IMG_20240815_213621132_AE](https://github.com/user-attachments/assets/9c5c3a8a-20ba-4ee1-aa62-e43319b8b7e2)
+
+4. Plug in the USB-C 12V adaptor to the DC socket to check that the fans turn and the air blows the correct direction before you proceed (the air should be flowing out the top of the fans).
+  
+5. Insert the two jigsaw pieces into the wooden slots and contain the wires within, place the DC socket outside and use the curved hole for the wire.
+
+![IMG_20240815_213708538_AE](https://github.com/user-attachments/assets/83420347-20f3-44d6-91d0-88c41e5e8d74)
+
+
+6. Screw the handle into the top panel.
+7. Place the top panel over the fans
+
+![IMG_20240815_214704081_AE](https://github.com/user-attachments/assets/859d9239-0ba8-49e3-babe-2a2321640485)
+
+8. Place the air straighteners on the top panel over the fans.
+
+9. Take the threaded rods and screw a hex nut on one end, followed by the flat head end caps.
+
+![20250106_075435](https://github.com/user-attachments/assets/c8911457-5fe8-42ac-9afe-8eb0d44794e7)
+
+11. Thread the rubber feet down the threaded rods to sit on the hex nuts.
+
+![20250106_075514](https://github.com/user-attachments/assets/4b4c12e3-2473-4792-8849-dd2b1e878618)
+
+12. Tie elastic around the bottom panel. This can be used to hold a battery pack in place, so you'll want it quite tight so that it's held firmly against the panel even though it's heavy.
+
+![20250106_073806](https://github.com/user-attachments/assets/d62ea414-c459-449b-a236-12be8a59b857)
+
+13. Thread the rods through the bottom panel with the feet underneath and the engraved circles facing up.
+
+![20250106_075607](https://github.com/user-attachments/assets/a014e44f-2c84-4662-9b0d-0a7470fb6d8b)
+
+14. Place the filters on top of the engraved circles.
+
+15. Place the assembled top section with the fans on top of the filters.
+
+16. Screw the top section in place with the hex nuts and then with the hex caps.
+
+17. Turn it on!
