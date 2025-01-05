@@ -2,7 +2,10 @@
 
 Laser cutting designs and instructions for DIY portable air purifiers with 1 or 2 fans.
 
-**Approximate Cost (NZD)**: $210 (Single Fan), $330 (Double Fan)
+| Fans | **Approximate Cost (NZD)** | **Estimated CADR (CFM)** | **Estimated CADR (CMH)** |
+|--|--|--|--|
+| Single Fan | $210 | 46 | 156 |
+| Double Fan | $330 | 92 | 78  |
 
 **Skill Level**: Beginner
 
@@ -12,7 +15,19 @@ The first time you build it will no doubt be slower as you get familiar with the
 
 The instructions have links to purchase components from AliExpress, shipping will take a few weeks.
 
+The electrical part is simply plugging in a series of cables, each has their own shape and can only be plugged in one way. It's easier than plugging in the old rectangular USB's!
+
 The designs also make use of the [3D printing files for air straighteners](https://github.com/chrisjensen/air-straightener/tree/main) to mount on these so that they create a nice strong wall of straight flowing air.
+
+## What does it look like?
+
+**Double Fan Design**
+
+![20250106_120740](https://github.com/user-attachments/assets/f8a7d340-7442-4b41-a5e7-abc65143f97e)
+
+**Single Fan Design**
+
+![20250106_115531](https://github.com/user-attachments/assets/936aabd5-76fa-4d2d-92cc-a36dd6622160)
 
 ## 😅 New to this? Don't worry! You've got this 🙌
 
