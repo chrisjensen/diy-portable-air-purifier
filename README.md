@@ -24,9 +24,11 @@ You don't even need a screwdriver, it can all be assembled by hand!
 
 There's detailed instructions on the next page with pictures you can follow.
 
-## 🔨 Finding a Maker Space
+## 🔨 Laser Cutting & 3D Printing
 
-To get your materials cut to shape, you'll need to find a maker space and send them the designs I've included.
+The easiest way to get your materials cut accurately to size is to get them laser cut and 3D printed.
+
+Most major cities have places have materials on hand ready to be cut and will post the result to you for a fee. To find them, you can goodle `laser cut wood [major city near you]` and `3d printing [major city near you]`.
 
 In New Zealand I use [Make Shop](https://www.makeshop.co.nz/) for my laser cutting, and in Australia I use [The Laser Co](https://thelaserco.com/). Whoever you use will have their own requirements for how you provide files to them and you may need to adjust the files accordingly.
 
