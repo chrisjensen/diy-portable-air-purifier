@@ -4,8 +4,8 @@ Laser cutting designs and instructions for DIY portable air purifiers with 1 or 
 
 | Fans | **Approximate Cost (NZD)** | **Estimated CADR (CFM)** | **Estimated CADR (CMH)** |
 |--|--|--|--|
-| Single Fan | $210 | 46 | 156 |
-| Double Fan | $330 | 92 | 78  |
+| Single Fan | $210 | 46 | 78 |
+| Double Fan | $330 | 92 | 156  |
 
 **Skill Level**: Beginner
 
