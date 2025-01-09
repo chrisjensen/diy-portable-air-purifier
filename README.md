@@ -1,15 +1,16 @@
 # 💨 DIY Portable Air Purifier Designs
 
-Laser cutting designs and instructions for DIY portable air purifiers with 1 or 2 fans.
+Create a powerful, portable air purifier that matches commercial units at a fraction of the cost. These designs create an effective air curtain using high-quality components and require no special tools to assemble.
 
 | Instructions | **Approximate Cost (NZD)** | **Estimated CADR (CFM)** | **Estimated CADR (CMH)** |
 |--|--|--|--|
 | [Single Fan](./single-fan) | $210 | 46 | 78 |
 | [Double Fan](./double-fan) | $330 | 92 | 156  |
 
-**Skill Level**: Beginner
-
-**Time to Build**: 15 minutes
+**Quick Facts**
+- 🛠️ Skill Level: Beginner (No tools needed!)
+- ⏱️ Build Time: 15 to 30 minutes
+- 📦 Parts Delivery: 2-3 weeks (AliExpress shipping)
 
 The first time you build it will no doubt be slower as you get familiar with the pieces.
 
@@ -21,7 +22,7 @@ The designs also make use of the [3D printing files for air straighteners](https
 
 ## What does it look like?
 
-Here's the single design in black, and the double.
+Here's the single design in black, and the double in it's raw beauty.
 
 ![20250109_214003](https://github.com/user-attachments/assets/2523abcd-9853-43ae-82d7-cee907c1b668)
 
@@ -66,4 +67,9 @@ The nice thing about these is that they're more compact as it just asks the batt
 If you want the USB-C, then get a USB-A as a fall back and to test it - you'll be able to hear the difference if it runs slower on one of them.
 
 <img width="339" alt="Screenshot 2025-01-06 at 12 37 25 PM" src="https://github.com/user-attachments/assets/1f4aa6a9-f3b6-4c65-af7a-77629b10cdf4" />
+
+## Ready to Build?
+Choose your design:
+- [Single Fan Instructions](./single-fan) - Compact and efficient
+- [Double Fan Instructions](./double-fan) - Maximum performance
 
