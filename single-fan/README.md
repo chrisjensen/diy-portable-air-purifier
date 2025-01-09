@@ -27,9 +27,9 @@ I've provided links to an AliExpress where you can find many of these components
 | [180mm M4 threaded rods](https://www.aliexpress.com/w/wholesale-180mm-M4-threaded-rods.html?spm=a2g0o.best.search.0)              | Used to hold the pieces of wood in place around the filters                                                                                                                | 4              |                        $14.00   | ![shopping copy](https://github.com/user-attachments/assets/99ae06bd-4332-411b-a3fd-a6ebe4ac915d) |
 | [45mm M4 bolts](https://www.aliexpress.com/w/wholesale-45mm-m4-bolt-flat-head-black.html?spm=a2g0o.productlist.search.0)                 | Used to hold the fans in place. They should have a flat head so that they create minimal obstruction to the filter being held in place                        | 8              |                        $5.50  | <img width="378" alt="Screenshot 2025-01-05 at 3 06 58 PM" src="https://github.com/user-attachments/assets/9db0b86d-8d31-4915-9d61-4d48a958782b" /> |
 | [M4 hex cap nut](https://www.aliexpress.com/w/wholesale-m4-hex-cap-nut.html?spm=a2g0o.productlist.search.0)                    |                                                                                                              | 12             |                      $3.70      | <img width="384" alt="Screenshot 2025-01-05 at 3 08 15 PM" src="https://github.com/user-attachments/assets/aaca5442-7ff9-47ff-abc3-8fb90a4e7d7d" /> |
-| [Rubber Feet 24x19x31mm](https://www.aliexpress.com/w/wholesale-rubber-feet.html?spm=a2g0o.detail.search.0)          |                                                                                                                                                                            | 4              |                     $10.00       | <img width="377" alt="Screenshot 2025-01-05 at 3 20 54 PM" src="https://github.com/user-attachments/assets/6ecf7a94-234a-44d9-ae9b-a2af5b6cea97" /> |
 | [M4 nuts](https://www.aliexpress.com/w/wholesale-m4-nuts.html?spm=a2g0o.productlist.search.0)                       | Useful for adjusting for exact length of threaded rod which may not fit exactly                                                                                                      | 8              |                          $2.80  | <img width="363" alt="Screenshot 2025-01-05 at 3 18 11 PM" src="https://github.com/user-attachments/assets/39cdcf27-63e8-4f1b-b042-207bfcff968b" /> |
 | [M4 flat head end caps](https://www.aliexpress.com/w/wholesale-m4-end-flat-cap.html?spm=a2g0o.productlist.search.0)                       | Used to hold the rubber feet in place                                                                    | 4              |                         $4.80   | <img width="388" alt="Screenshot 2025-01-05 at 3 16 45 PM" src="https://github.com/user-attachments/assets/a8d9f269-dda2-4f73-82d7-27cf073cc28d" /> |
+| [Rubber Feet 24x19x31mm](https://www.aliexpress.com/w/wholesale-rubber-feet.html?spm=a2g0o.detail.search.0)          |                                                                                                                                                                            | 4              |                     $10.00       | <img width="377" alt="Screenshot 2025-01-05 at 3 20 54 PM" src="https://github.com/user-attachments/assets/6ecf7a94-234a-44d9-ae9b-a2af5b6cea97" /> |
 | 20mm Black Elastic Band                       |  To hold a power bank in place at the bottom               | 1              |                     $5.00  | <img width="347" alt="Screenshot 2025-01-05 at 3 32 27 PM" src="https://github.com/user-attachments/assets/87fe9483-5714-4bf8-8168-2cd58d32b6d2" /> |
 
 ## Optional
@@ -87,6 +87,7 @@ If you'd like to edit the designs, you can use [this source design file](../sour
 
 ## Steps
 
+### Fan Assembly
 
 1. Place the M4 bolts through the wood with the fan hole. Face it so the heads of the bolts are recessed a little in the engraving.
 
@@ -99,28 +100,33 @@ If you'd like to edit the designs, you can use [this source design file](../sour
    
 ![20250106_115827](https://github.com/user-attachments/assets/be914c7c-777d-492a-9009-33efda3604b4)
 
-6. Take the threaded rods and screw a hex nut on one end, followed by the flat head end caps.
+### Base Preparation
+
+1. Take the threaded rods and screw a hex nut on one end, followed by the flat head end caps.
 
 ![20250106_075435](https://github.com/user-attachments/assets/c8911457-5fe8-42ac-9afe-8eb0d44794e7)
 
-7. Thread the rubber feet down the threaded rods to sit on the hex nuts.
+2. Thread the rubber feet down the threaded rods to sit on the hex nuts.
 
 ![20250106_075514](https://github.com/user-attachments/assets/4b4c12e3-2473-4792-8849-dd2b1e878618)
 
-8. Tie elastic around the bottom panel. This can be used to hold a battery pack in place, so you'll want it quite tight so that it's held firmly against the panel even though it's heavy.
+3. Tie elastic around the bottom panel. This can be used to hold a battery pack in place, so you'll want it quite tight so that it's held firmly against the panel even though it's heavy.
 
 ![IMG_20240818_194712910_HDR_AE](https://github.com/user-attachments/assets/2d8ce212-f635-4c1f-97c1-6cefbf22a640)
 
 ![IMG_20240818_194903560_AE](https://github.com/user-attachments/assets/77b92061-dd45-4f20-b564-8d8be22813f8)
 
-9. Thread the rods through the bottom panel with the feet underneath and the engraved circles facing up.
-10. Place the filter on top of the engraved circle.
-11. Place the assembled top section with the fans on top of the filters.
+4. Thread the rods through the bottom panel with the feet underneath and the engraved circles facing up.
 
-12. Screw the top section in place with the hex nuts and then with the hex caps. Make sure you hold the rod in place while you tighten the nuts and caps, otherwise it may turn and loosen the caps holding the rubber feet in place.
+### Final Assembly
+
+1. Place the filter on top of the engraved circle.
+2. Place the assembled top section with the fans on top of the filters.
+
+3. Screw the top section in place with the hex nuts and then with the hex caps. Make sure you hold the rod in place while you tighten the nuts and caps, otherwise it may turn and loosen the caps holding the rubber feet in place.
 
     There may be a gap between the nuts and caps, that's fine as long as the filters are held firmly in place. If it bothers you asthetically, you could add another hex nut in between.
 
 ![20250106_115531](https://github.com/user-attachments/assets/c56c5bfe-09d5-4ad1-b879-76340e7766d8)
 
-14. Plug it in and blow some mist over it to watch the wall of air in action!
+4. Plug it in and blow some mist over it to watch the wall of air in action!
