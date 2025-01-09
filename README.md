@@ -21,13 +21,9 @@ The designs also make use of the [3D printing files for air straighteners](https
 
 ## What does it look like?
 
-**Double Fan Design**
+Here's the single design in black, and the double.
 
-![20250106_120740](https://github.com/user-attachments/assets/f8a7d340-7442-4b41-a5e7-abc65143f97e)
-
-**Single Fan Design**
-
-![20250106_115531](https://github.com/user-attachments/assets/936aabd5-76fa-4d2d-92cc-a36dd6622160)
+![20250109_214003](https://github.com/user-attachments/assets/2523abcd-9853-43ae-82d7-cee907c1b668)
 
 ## 😅 New to this? Don't worry! You've got this 🙌
 
@@ -53,11 +49,11 @@ Now choose if you're making a [double fan](./double-fan/) or [single fan](./sing
 
 ## USB-C and USB-A adapters
 
-The fans run on 12V while USB puts out 5V. There's a couple of ways you can get 12V for this:
+The fans run on 12V while USB puts out 5V. There's a couple of ways you can get 12V from a USB power bank:
 
 #### Get a USB-A that converts to 12V
 
-I prefer this option as it's simple, the hardware is designed to do this all the time, and it just works. The only downside is that the USB plug is pretty bulky, and often flimsy and prone to breaking if it's knocked around a lot. By putting the battery under the filter and holding it in place with elastic it is reasonably well protected fro this.
+I prefer this option as it's simple, the hardware is designed to do this all the time, and it just works. The only downside is that the USB plug is pretty bulky, and often flimsy and prone to breaking if it's knocked around a lot. By putting the battery under the filter and holding it in place with elastic it is reasonably well protected from this.
 
 <img width="393" alt="Screenshot 2025-01-05 at 2 28 15 PM" src="https://github.com/user-attachments/assets/f2004017-541b-450e-9996-fa06dc4546fd" />
 
@@ -65,7 +61,9 @@ I prefer this option as it's simple, the hardware is designed to do this all the
 
 You've probably seen this if you've got a new phone. It uses the new Power Delivery protocol to get more power from the USB battery and charge quickly. In theory you can buy a USB-C Power Delivery adapter from AliExpress.
 
-The nice thing about these is that they're more compact as it just asks the battery or wall plug itself to deliver the 12V, so it doesn't need any bulky hardware for converting the power from 5V to 12V. Unfortunately, in my experience, these adapters can be bad at negotiating the Power Delivery protocol, and the power supply ends up only providing 5V and the fan doesn't run at full speed.
+The nice thing about these is that they're more compact as it just asks the battery pack or wall plug itself to deliver the 12V, so it doesn't need any bulky hardware for converting the power from 5V to 12V. Unfortunately, in my experience, these adapters can be bad at negotiating the Power Delivery protocol, and the power supply ends up only providing 5V which means the fan doesn't run at full speed.
+
+If you want the USB-C, then get a USB-A as a fall back and to test it - you'll be able to hear the difference if it runs slower on one of them.
 
 <img width="339" alt="Screenshot 2025-01-06 at 12 37 25 PM" src="https://github.com/user-attachments/assets/1f4aa6a9-f3b6-4c65-af7a-77629b10cdf4" />
 
