@@ -12,6 +12,8 @@ If you build at least two of them, the cost comes to around NZD $210 per unit.
 
 If you, or someone you know, has the tools and knowhow to put 116mm holes into wood, you could save another $53 by sourcing and cutting the wood yourself.
 
+Likewise, if you know someone with a 3D printer, you can save the $26 printing cost on the air straighteners.
+
 ## Components
 
 I've provided links to an AliExpress where you can find many of these components cheaply. Sellers and products change frequently so I can't link directly to a specific product so you'll have to search. The searching will show up some that aren't relevant, so do check that the product description matches closely the size and type required and when in doubt use the pictures as a reference.
